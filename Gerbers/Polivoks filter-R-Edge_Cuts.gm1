@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.10*%
+%TF.CreationDate,2025-10-26T16:30:34+00:00*%
+%TF.ProjectId,Polivoks filter-R,506f6c69-766f-46b7-9320-66696c746572,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.10) date 2025-10-26 16:30:34*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X97599500Y-85356700D02*
+X194754500Y-85356700D01*
+X194754500Y-131711700D01*
+X97599500Y-131711700D01*
+X97599500Y-85356700D01*
+M02*
