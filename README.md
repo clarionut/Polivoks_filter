@@ -16,3 +16,7 @@ I particularly wanted to give this module a convincing Polivoks style so I decid
 I also 3D printed some Polivoks-inspired (but Eurorack sized) [knobs for the potentiometers](https://www.thingiverse.com/thing:7183551) and am very pleased with the final result.
 
 The sound is very similar to my original Polivoks over most of its range, though the self-oscillation behaviour at extreme resonance settings is slightly wilder than the original.
+
+There are PDFs of the schematic and PCB layout in the Schematics folder along with a copy of the KiCad project. The KiCad project uses some custom symbols, so you may need to download my [custom KiCad libraries](https://github.com/clarionut/kiCad_libraries) and tell KiCad where to find them.
+
+I've also included the Gerbers in case anyone wants to use my PCB layout without any changes.
