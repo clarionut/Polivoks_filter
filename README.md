@@ -1,8 +1,6 @@
 # Polivoks_filter
 A Eurorack version of the famous Polivoks filter
 
-<img title="Polivox filter" width="150px" src="https://github.com/user-attachments/assets/725bd5b6-9937-4f49-85dc-db482fbee568">
-
 Here is the original schematic of the filter portion of the Polivoks filter board (the remainder of the board is an envelope generator for modulation of the filter cutoff) -
 
 <img width="652" height="390" alt="image" src="https://github.com/user-attachments/assets/52ffe5a3-95ed-4f81-abdb-9b8128beac22" />
@@ -11,4 +9,7 @@ It's a deceptively simple circuit based on two К140УД12 programmable op-amps 
 
 For use in a modular synth the circuit also needs inputs and outputs (unlike the hard-wired signal paths in the Polivoks). I decided to have two CV inputs, one with an attenuverter (the idea came from Marc Bareille's circuit but the implementation is completely different). The behaviour of the filter is rather dependent on the input signal amplitude so I added a passive attenuator on the audio input. There are separate buffers for the lowpass and bandpass outputs plus an (approximately) equal-power mixer giving a third output continuously variable between LP and BP.
 
+I particularly wanted to give this module a convincing Polivoks style so I decided to label it in white on a black background with Russian legends and graphic elements based on the real Polivoks. The graphics I used are in the Panel folder (Polivoks.svg) but I've also included a version with legends in English (Polivoks_EN.svg).
+
+<img title="Polivox filter" width="150px" src="https://github.com/user-attachments/assets/725bd5b6-9937-4f49-85dc-db482fbee568">
 
